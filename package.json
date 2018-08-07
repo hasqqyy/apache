@@ -1,0 +1,26 @@
+{
+  "name": "apacha",
+  "version": "1.0.0",
+  "description": "实现的静态资源",
+  "main": "app.js",
+  "dependencies": {
+    "mime": "^2.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasqqyy/apache.git"
+  },
+  "keywords": [
+    "niub"
+  ],
+  "author": "autofish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasqqyy/apache/issues"
+  },
+  "homepage": "https://github.com/hasqqyy/apache#readme"
+}
